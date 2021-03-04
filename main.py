@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-token = ""
+token = "your bot token"
 
 
 SPAM_CHANNEL =  ["byte tools runs you" , "Get ran" , "Hit by byte tools" , "oops Beamed","byte tools Beamed You","Shoulda Listened","Get beamed clowns","Beamed by byte tools","oops got nuked","I run you","beamed by byte tools","I run you","kinda got beamed by byte tools"]
